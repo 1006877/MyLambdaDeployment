@@ -1,0 +1,15 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Entered the build phase ...
+      
+      
+artifacts:
+  files:
+    - appspec.yml
+        
+      
+
+      
