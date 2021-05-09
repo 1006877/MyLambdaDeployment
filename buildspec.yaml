@@ -9,6 +9,7 @@ phases:
 artifacts:
   files:
     - /buildspec.yaml
+    -/appspec.yml
         
       
 
